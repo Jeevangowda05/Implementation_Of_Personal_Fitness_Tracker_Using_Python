@@ -1,1 +1,3 @@
 # Implementation_Of_Personal_Fitness_Tracker_Using_Python
+You are developing a personal fitness application using Python and Streamlit that helps users achieve their fitness goals through data-driven insights. The app collects user inputs such as age, weight, height, heart rate, and body temperature, and recommends personalized diet plans and exercise routines based on BMI and target weight goals. The app uses advanced algorithms to predict user outcomes by comparing input data with a stored dataset and displays the top 3 matching results. Additionally, the app features an intuitive UI with a visually appealing background, ensuring a seamless user experience.
+
